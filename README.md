@@ -1,10 +1,7 @@
-### Hi there 👋
+### Ey, ¡hola! 👋
 
 <!--
 **JoelBidal/JoelBidal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +11,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Bienvenidos a mi perfil de <b>GitHub</b>, en mis repositorios van a encontrar gran variedad de proyectos que realizo con el fin de seguir perfeccionando mis habilidades en el desarrollo. 
+<br>
+Espero puedan disfrutarlos tanto como yo al realizarlos, y si quieren pueden dejarme su opinion en alguna de mis redes sociales favoritas: <a href="https://www.instagram.com/joelbidal/" target="_blank"> Instagram</a>, <a href="https://twitter.com/JoelBidal5" target="_blank">Twitter</a> o <a href="https://www.linkedin.com/in/joel-bidal-55852711b/" target="_blank">LinkedIn.</a>
+<br>
+¡Gracias por estar acá! ⚡
